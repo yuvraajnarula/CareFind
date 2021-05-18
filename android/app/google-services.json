@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "783686479664",
+    "project_id": "carefind-9b45c",
+    "storage_bucket": "carefind-9b45c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783686479664:android:82d4ba9c4a4e4b72bc22f5",
+        "android_client_info": {
+          "package_name": "com.ion.care_find"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783686479664-3gobpamdv5in1762v9dq2203h0p0g2o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ion.care_find",
+            "certificate_hash": "de47c529e82f27088f86cfc28182323f961f6d3e"
+          }
+        },
+        {
+          "client_id": "783686479664-hirvhv5fg4idj73gmb9ofp7i04e01sqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw9tcDIglizUe2pbw3hA5_iGZxg6gidvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783686479664-hirvhv5fg4idj73gmb9ofp7i04e01sqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
